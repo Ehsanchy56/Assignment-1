@@ -39,6 +39,7 @@ h2{
     display: flex;
     justify-content: space-between;
     margin-inline: 25%;
+    margin-bottom: 100px;
 }
 .link-button2{
     font-size: 35px;
@@ -53,4 +54,12 @@ h2{
     color: crimson;
     border: solid 1px crimson;
 }
+.input1{
+    margin-left: 45%;
+  width: 50%;
+border: none;
 
+}
+hr{
+    width: 50%;
+}
