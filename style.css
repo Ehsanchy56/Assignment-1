@@ -18,6 +18,12 @@ h2{
     font-size: 24px;
     text-align: center;
 }
+.text-color3{
+    color: black;
+    font-size: 24px;
+    text-align: center;
+
+}
 .heading-bg{
     background-image: url(images/hero.png);
     padding: 195px 100px 200px 100px;
@@ -62,4 +68,26 @@ border: none;
 }
 hr{
     width: 50%;
+}
+.donation-flex{
+    margin-left: 90px;
+    margin-right: 90px;
+    display: flex;
+    gap: 30px;
+
+}
+.donation-box1{
+    background-color: aquamarine;
+    padding: 30px;
+    border-radius: 5px;
+}
+.donation-box2{
+    background-color: rgba(127, 129, 255, 0.884);
+    padding: 30px;
+    border-radius: 5px;
+}
+.donation-box3{
+    background-color: rgba(255, 127, 217, 0.959);
+    padding: 30px;
+    border-radius: 5px;
 }
