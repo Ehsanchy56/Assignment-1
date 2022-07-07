@@ -1,0 +1,56 @@
+body{
+    font-family: 'Oswald', sans-serif;
+    margin: 0%;
+}
+h1{ color: white;
+    text-align: center; 
+   font-size: 45px; 
+}
+h2{
+    color: black;
+    font-size: 40px;
+    font-weight: 900;
+    text-align: center;
+
+}
+.text-color1{ 
+     color: white;
+    font-size: 24px;
+    text-align: center;
+}
+.heading-bg{
+    background-image: url(images/hero.png);
+    padding: 195px 100px 200px 100px;
+}
+.link-button1{
+    text-decoration: none;
+    color: white;
+    background-color: tomato;
+    padding: 15px;
+    border-radius: 5px;
+    text-align: center;
+}
+.text-color2{
+    color: dimgrey;
+    font-size: 20px;
+    text-align: center;
+}
+.button-flex{
+    display: flex;
+    justify-content: space-between;
+    margin-inline: 25%;
+}
+.link-button2{
+    font-size: 35px;
+    text-decoration: none;
+    color:rgba(80, 77, 77, 0.26);
+    padding: 10px;
+    background-color: beige;
+    border-radius: 5px;
+}
+.link-button3{
+    background-color: rgb(221, 154, 154);
+    color: crimson;
+    border: solid 1px crimson;
+}
+
